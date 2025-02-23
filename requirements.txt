@@ -14,4 +14,4 @@ ffmpeg
 nodejs
 deep-translator
 speedtest-cli
-pip install gitpython
+gitpython
